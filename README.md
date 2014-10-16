@@ -1,3 +1,3 @@
 leetcode
 ========
-a solution to the leetcode
+solutions to the leetcode
