@@ -40,7 +40,7 @@ public class Solution {
             }
         }
         List<List<Integer>> result = new ArrayList<List<Integer>>();
-        for(int i=list.size()-1;i>=0;i--){
+        for(int i=list.size()-1;i>=0;i--){                             //reverse the list
             result.add(list.get(i));
         }
         return result;
